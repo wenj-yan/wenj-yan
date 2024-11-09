@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wenj-yan
 - 👀 I’m interested in embedded system and electronic technology
-- 🌱 I’m currently learning in SHU and have been recommended to the UESTC for postgraduate study
+- 🌱 I’m currently learning in SHU 
 - 📫 How to reach me :Wenjyan@outlook.com
 
 
