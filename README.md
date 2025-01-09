@@ -33,8 +33,13 @@
 
 ###  📊 GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenj-yan)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wenj-yan&show_icons=true&theme=radical" alt="wenj-yan" />
+</p>
 
+---
+
+<p align="center">Thanks for visiting my profile! Feel free to connect 😊</p>
 <!---
 wenj-yan/wenj-yan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
