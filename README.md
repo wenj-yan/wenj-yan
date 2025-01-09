@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Verilog-8B4513?style=for-the-badge&logo=v&logoColor=white" alt="verilog logo" />
 </div>
-### 📊 GitHub Analytics
+###  📊 GitHub Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenj-yan)](https://github.com/anuraghazra/github-readme-stats)
 
