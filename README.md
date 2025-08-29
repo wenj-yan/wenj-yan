@@ -1,8 +1,8 @@
 ### 👨‍💻 About Me
 
 - 👋 Hi, I’m @wenj-yan
-- 👀 I’m interested in embedded system and electronic technology
-- 🌱 I’m currently learning in SHU 
+- 👀 I’m interested in embedded system and software-hardware codesign
+- 🌱 Graduated from SHU, currently pursuing a master's degree at the UESTC
 - 📫 How to reach me :Wenjyan@outlook.com
 
 ### 🚀 Technologies
@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CNNL-1E90FF?style=for-the-badge&logo=c&logoColor=white" alt="cnnl logo" />
+  <img src="https://img.shields.io/badge/CNNL-1E90FF?style=for-the-badge&logo=c&logoColor=white" alt="RTL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
