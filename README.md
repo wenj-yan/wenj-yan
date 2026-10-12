@@ -12,7 +12,7 @@
 
 **`@wenj-yan`**
 
-- 🎓 B.Eng. @ **SHU** → M.Sc. candidate @ **UESTC**
+- 🎓  M.Sc. candidate @ **UESTC**
 - 🔧 Focused on **embedded systems** and **software-hardware co-design**
 - ✍️ I keep my notes here → [brain-dump-notes](https://wenj-yan.github.io/brain-dump-notes/)
 
