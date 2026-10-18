@@ -1,12 +1,4 @@
-<h1 align="center">Wenj Yan</h1>
 
-<p align="center">
-  <samp>Embedded Systems · Software–Hardware Co-design</samp>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=1000&color=5B8DEF&center=true&vCenter=true&width=435&lines=From+silicon+to+software.;Low-level+curiosity%2C+high-level+goals." alt="Typing SVG" />
-</p>
 
 ---
 
@@ -14,7 +6,6 @@
 
 - 🎓  M.Sc. candidate @ **UESTC**
 - 🔧 Focused on **embedded systems** and **software-hardware co-design**
-- ✍️ I keep my notes here → [brain-dump-notes](https://wenj-yan.github.io/brain-dump-notes/)
 
 **Stack**
 
