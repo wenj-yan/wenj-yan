@@ -31,10 +31,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wenj-yan&hide_border=true&mode=weekly" height="140"/>
-</p>
 
-<p align="center">
-  <samp>Thanks for stopping by.</samp>
-</p>
